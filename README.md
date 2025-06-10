@@ -11,9 +11,9 @@
   Specializing in PHP (Laravel & Symfony) and scalable microservices
 - 💬 **Talk to me about** web architecture, APIs & DSA
 - 🌿 **Passionate about** nature, camping & the great outdoors
-- 🤖 **Pronouns:** he/him
+- 🤖 **Pronouns:** she/her
 - 🎲 **Fun fact:** I love playing chess ♟️
-- ✏️ **Fun fact:** I enjoy designing objects—cars, clothes, and more
+- ✏️ **Fun fact:** I enjoy designing Barbie clothes, and I enjoy listening to Spacetoon songs while coding 
 
 ---
 
