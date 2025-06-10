@@ -1,9 +1,9 @@
-<!-- anniedotexe/README.md -->
+<!-- afnanmohannad/README.md -->
   
-# Error 404 – Afnan Not Found
+# 200 OK – Afnan Mohannad Here!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-afnan-mohannad-39871022a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)](https://afnan-mohannad.com)  
 
 - 🎓 **B.S. in Computer Systems Engineering**  
   Arab American University, class of 2019
