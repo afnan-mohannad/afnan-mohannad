@@ -7,7 +7,7 @@
 
 - 🎓 **B.S. in Computer Systems Engineering**  
   Arab American University, class of 2019
-- 💻 **Currently working as a Backend Engineer and Training as a Full Stack Engineer**  
+- 💻 **Currently working as a Backend Engineer and Training as a Full Stack Engineer (MERN stack)**  
   Specializing in PHP (Laravel & Symfony) and scalable microservices
 - 💬 **Talk to me about** web architecture, APIs & DSA
 - 🌿 **Passionate about** nature, camping & the great outdoors
