@@ -13,7 +13,7 @@
 - 🌿 **Passionate about** nature, camping & the great outdoors
 - 🤖 **Pronouns:** she/her
 - 🎲 **Good fact:** I love playing chess ♟️
-- ✏️ **Fun fact:** I enjoy designing Barbie clothes, and I enjoy listening to Spacetoon songs while coding 💻🤖
+- ✏️ **Fun fact:** I enjoy designing Barbie clothes till now, and I enjoy listening to Spacetoon old songs while coding 💻🤖 
 
 ---
 
