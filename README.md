@@ -3,7 +3,7 @@
 # 200 OK – Afnan Mohannad is here!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-afnan-mohannad-39871022a/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)](https://afnan-mohannad.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)](https://afnanmohannad.com)  
 
 - 🎓 **B.S. in Computer Systems Engineering**  
   Arab American University, class of 2019
